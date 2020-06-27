@@ -1,4 +1,5 @@
 def using_push(array, string)
+<<<<<<< HEAD
   array = ["red", "orange", "yellow", "green", "blue", "indigo"]
     string = array.push("violet")
     end
@@ -33,3 +34,10 @@ shift_with_args = array.shift(2)
 end
 
 
+=======
+  array = ["1", "2", "3"]
+  string = ["4"]
+  array.push(string)
+
+    end
+>>>>>>> b8a7f2f7c5aabed6190514373f035ed1c871cd4b
